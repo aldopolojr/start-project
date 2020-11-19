@@ -1,0 +1,20 @@
+{
+  "name": "start-project",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "aldopolojr",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.29.0"
+  },
+  "dependencies": {
+    "core-js": "^3.7.0",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
